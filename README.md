@@ -1,8 +1,4 @@
-Kaggle Challenge - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-
-Facial Emotion Recognition on FER2013 Dataset Using a Convolutional Neural Network. 
-
-80-10-10 ratio for training-validation-test sets.
+## Facial Emotion Recognition on FER2013 Dataset Using a Convolutional Neural Network. 
 
 Winner - 71.161% accuracy
 
